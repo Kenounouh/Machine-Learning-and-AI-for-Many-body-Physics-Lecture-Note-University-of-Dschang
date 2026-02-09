@@ -1,9 +1,7 @@
 # Machine Learning and AI for Many-body Physics Lecture Note University of Dschang
-This repository contains the lecture notes and code for the lecture series **Machine Learning and AI for Many-body Physics** I delivered at University of Dschang from February 2026.
+This repository contains the lecture notes and code for the lecture series **Machine Learning and AI for Many-body Physics** I delivered at University of Dschang from February 2026. The implemenation is an adaptation of https://link.aps.org/doi/10.1103/q8p7-k7ms
 
 
-# Many Body Neural Network Wavefunction for a Non-Hermitian Ising Chain
-This repository provide the codes that support the results in our paper: https://link.aps.org/doi/10.1103/q8p7-k7ms; ArXiv https://arxiv.org/abs/2506.11222
 
 # Neural Quantum States
 
@@ -12,22 +10,21 @@ approximating ground states (quantum many-body wave function ansätzes) of compl
 
 ## Content
 This repository contains the following folders:
-* **ED**: an implementation of exact diagonalization (ED) for the the 1D non-Hermitian PT-symmetric Transverse-field Ising Model (TFIM). To run the code, run the file `ED_NH_core.py`.
+* **ED**: an implementation of exact diagonalization (ED) for the the 1D Hermitian Transverse-field Ising Model (TFIM). To run the code, run the file `ED_NH_core.py`.
 
-* **RNN**: an implementation of the RNN Wave Function for the finding of the ground state of the 1D non-Hermitian PT-symmetric Transverse-field Ising Model (NH TFIM).
+* **RNN**: an implementation of the RNN Wave Function for the finding of the ground state of the 1D Hermitian Transverse-field Ising Model.
 
-* **RBM**: an implementation of the RBM Wave Function (`VMC_RBM_TFIM.ipynb`) for the finding of the ground state of the 1D non-Hermitian PT-symmetric Transverse-field Ising Model (NH TFIM).
+* **RBM**: an implementation of the RBM Wave Function for the finding of the ground state of the 1D non-Hermitian PT-symmetric Transverse-field Ising Model.
 
-* **MLP**:an implementation of the MLP Wave Function for the finding of the ground state of the 1D non-Hermitian PT-symmetric Transverse-field Ising Model (NH TFIM).
-
-* **TL**: an implementation of the RNN, RBM (`vmc_rbm_sweep_test_transfer.py`), MLP  Wave Function with transfer learning for the finding of the average magnetization in 1D non-Hermitian PT-symmetric Transverse-field Ising Model (NH TFIM).
+* **MLP**:an implementation of the MLP Wave Function for the finding of the ground state of the 1D non-Hermitian PT-symmetric Transverse-field Ising Model.
 
 
 To learn more about this approach, you can check out our paper on Physical Review Research: https://link.aps.org/doi/10.1103/q8p7-k7ms; ArXiv https://arxiv.org/abs/2506.11222
 
 For further questions or inquiries, please feel free to send an email to lavoisier.wahkenounouh@mpl.mpg.de. We are looking forward to future contributions.
+
 ## Dependencies
-Our implementation works with the packages in the `requirements.txt` file. They can be installed by running:
+Our implementation works with the packages in the `requirements.txt` file (for MacOs users), or `requirements2.txt` file (for Windows users). They can be installed by running:
 ```
 pip install -r requirements.txt
 ```
