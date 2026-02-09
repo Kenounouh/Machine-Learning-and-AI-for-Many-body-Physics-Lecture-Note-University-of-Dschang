@@ -91,7 +91,7 @@ The following should be completed prior to this session:
 
 **Note:** **A stable internet connection is required during this session in order to install all additional dependencies!**
 
-This lecture is also devoted to a concise introduction to basic Python packages, including `NumPy`, `SciPy`, and `Matplotlib`.
+This lecture is also devoted to a concise introduction to basic Python packages, including `NumPy`, `SciPy`, `Tensorflow`, `Numba`, and `Matplotlib`.
 
 ---
 
