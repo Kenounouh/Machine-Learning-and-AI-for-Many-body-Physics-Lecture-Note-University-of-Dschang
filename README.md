@@ -55,7 +55,7 @@ For simplicity all the NQSs where stored as jupyter notebooks.
 }
 ```
 ## License
-The [license](https://github.com/Kenounouh/Many-Body-Neural-Network-Wavefunction-for-a-Non-Hermitian-Ising-Chain/edit/main/LICENSE) of this work is derived from the BSD-3-Clause license. Ethical clauses are added to promote good uses of this code.
+The [license](https://github.com/Kenounouh/Machine-Learning-and-AI-for-Many-body-Physics-Lecture-Note-University-of-Dschang/edit/main/LICENSE) of this work is derived from the BSD-3-Clause license. Ethical clauses are added to promote good uses of this code.
 
 
 
