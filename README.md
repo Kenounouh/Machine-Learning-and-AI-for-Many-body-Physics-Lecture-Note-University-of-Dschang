@@ -31,8 +31,7 @@ pip install -r requirements.txt
 ## Clone repository
 
 ```
-git clone https://github.com/Kenounouh/Many-Body-Neural-Network-Wavefunction-for-a-Non-Hermitian-Ising-Chain.git
-cd Many-Body-Neural-Network-Wavefunction-for-a-Non-Hermitian-Ising-Chain
+git clone https://github.com/Kenounouh/Machine-Learning-and-AI-for-Many-body-Physics-Lecture-Note-University-of-Dschang.git
 ```
 
 ## Run
