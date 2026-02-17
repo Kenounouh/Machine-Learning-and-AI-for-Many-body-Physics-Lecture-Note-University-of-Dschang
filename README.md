@@ -1,4 +1,4 @@
-# Neural quantum state and Machine Learning for Many-body Physics Lecture Note University of Dschang
+# Neural Quantum State and Machine Learning for Many-body Physics Lecture Note University of Dschang
 This repository contains the lecture notes and code for the lecture series **Machine Learning and AI for Many-body Physics** I delivered at University of Dschang from February 2026. The implemenation is an adaptation of https://link.aps.org/doi/10.1103/q8p7-k7ms
 
 # Summary
